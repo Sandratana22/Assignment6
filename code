@@ -3,6 +3,7 @@
 #include <iostream>
 #include <iomanip>
 
+//Performing string and characters
 using namespace std;
 
 int main(){
